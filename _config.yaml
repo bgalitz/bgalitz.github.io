@@ -1,2 +1,4 @@
 name: Brian Galitz, Scripting Ninja
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
