@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "More like python-nowhere"
+title: "...more like python-nowhere.com"
+date: 2015-08-22
 ---
 
 I'm a fan of free but [pythonanywhere](http://bgalitz.pythonanywhere.com/) is really driving me nuts.
