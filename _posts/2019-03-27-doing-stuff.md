@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brian Galitz, Doing Stuff"
+title: "Doing Stuff"
 date: 2019-03-27
 ---
 
