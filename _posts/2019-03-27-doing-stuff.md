@@ -13,3 +13,5 @@ https://www.rfidjournal.com/purchase-access?type=Article&id=12728&r=%2Farticles%
 
 https://www.slideshare.net/lponssa/northwestern-memorial-healthcare
 
+https://archlt.com/pdf/nmh-case-study.pdf
+
