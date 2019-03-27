@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brian Galitz, Site Redux"
+title: "Site Redux"
 date: 2019-03-23
 ---
 
