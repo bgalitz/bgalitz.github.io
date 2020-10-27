@@ -37,7 +37,6 @@ date: 2019-10-27
     </h2>
     <p>
         · Change Management (ADKAR ProSci), DMAIC (NM Process Improvement), PMP
-        (In Progress)
     </p>
     <h1>
         Experience
