@@ -60,11 +60,11 @@ date: 2019-10-27
     <h2>
         Manager, Supply Chain - Business Operations &amp; Analytics | Northwestern Medicine | 2013 - 2017
     </h2>
-    <p>
-        · Expanded RFID system to IR, Cath Lab and EP (6,000 SKU’s) to take
-        over supply management without adding FTE’s
-    </p>
     <ul>
+        <li>
+            Expanded RFID system to IR, Cath Lab and EP (6,000 SKU’s) to take
+        over supply management without adding FTE’s
+        </li>
         <li>
             Developed Tableau dashboard for key RFID metrics
         </li>
@@ -75,55 +75,57 @@ date: 2019-10-27
     <h2>
         Manager, Supply Chain - Business Operations &amp; Analytics | Northwestern Lake Forest Hospital | 2010 - 2013
     </h2>
-    <p>
-        · Converted ERP systems from Lawson to PeopleSoft (led data cleanse,
-        optimization and training)
-    </p>
     <ul>
+        <li>
+        Converted ERP systems from Lawson to PeopleSoft (led data cleanse,
+        optimization and training)
+        </li>
         <li>
             Converted Distributor from Owens &amp; Minor to Medline
         </li>
-    </ul>
-    <p>
-        · Outsourced couriers for a $126K savings and increase in scope (NMPG
+   
+    <li>
+        Outsourced couriers for a $126K savings and increase in scope (NMPG
         onboarding)
-    </p>
-    <p>
-        · Opened Grayslake Surgery Center (4 OR’s + Ancillary areas)
-    </p>
+   </li>
+   <li>
+        Designed and opened Grayslake Surgery Center (4 OR’s + Ancillary areas)
+    </li>
+    </ul>
     <h2>
         Resource coordinator | northwestern memorial hospital | 2007 - 2010
     </h2>
-    <p>
-        · Created a POS-like barcode system to reconcile charges &amp; manage
+    <ul>
+    <li>Created a POS-like barcode system to reconcile charges &amp; manage
         inventory (budget neutral)
-    </p>
-    <p>
-        · Developed &amp; implemented RFID tracking resulting in expired
+    </li>
+    <li>
+        Developed &amp; implemented RFID tracking resulting in expired
         reduction ($200K), inventory reduction ($3.2M), and increased charge
         capture ($1M)
-    </p>
-    <p>
-        · Opened Prentice Women’s Hospital (10 OR’s + L&amp;D + Ancillary
+    </li>
+  <li>
+        Opened Prentice Women’s Hospital (10 OR’s + L&amp;D + Ancillary
         areas)
-    </p>
+    </li>
+   </ul>
     <h2>
         Inventory Technician | Northwestern Memorial Hospital | 2004 - 2007
     </h2>
-    <p>
-        · Developed tissue tracking database (budget neutral) to transfer labor
-        from nursing to Supply Chain
-    </p>
-    <p>
-        · Opened Olson Outpatient Pavilion (10 OR’s + Ancillary areas)
-    </p>
+    <ul><li>Developed tissue tracking database to transfer labor
+        from nursing to Supply Chain without increasing FTE budget
+    </li>
+    <li>
+        Opened Olson Outpatient Pavilion (10 OR’s + Ancillary areas)
+    </li>
+    </ul>
     <h2>
         Inventory Analyst | Med-Count | 2000-2004
     </h2>
-    <p>
-        · Analytics reporting &amp; data entry for dozens of pharmacies and
+    <ul><li>
+        Inventory reporting &amp; data analytics for dozens of pharmacies and
         long-term care facilities in the Midwest
-    </p>
+    </li>
     <h1>
         Education
     </h1>
@@ -131,10 +133,10 @@ date: 2019-10-27
         M.S. Computer Science | 2017 | University of Illinois
     </h2>
     <p>
-        · Software Engineering (Python, C#), Databases (MongoDB, )
+        · Software Engineering (Python, C#), Databases (MongoDB, MySQL)
     </p>
     <h2>
-        B.S. computer science | 2008 | northeastern illinois university
+        B.S. Computer Science | 2008 | Northeastern Illinois University
     </h2>
     <p>
         · Databases (Access, SQL, MySQL), Software Engineering (PHP, Java, C++)
