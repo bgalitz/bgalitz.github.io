@@ -12,15 +12,15 @@ date: 2019-10-27
     </div>
     <p>
         2041 W. El Camino Real | 650.485.9734 | <a>btgalitz@gmail.com</a> |
-        <a href="https://www.linkedin.com/in/brian-galitz-a443b58">
-            https://www.linkedin.com/in/brian-galitz-a443b58
+        <a href="https://www.linkedin.com/in/brian-galitz-01010101/">
+            https://www.linkedin.com/in/brian-galitz-01010101/
         </a>
         | bgalitz.github.io/
     </p>
     <p>
-        Proven, dynamic and customer-oriented leader with an exceptional track
-        record of designing and implementing complex systems, creating
-        efficiencies and enhancing analytics for Supply Chain.
+        As an experienced Business Operations & Analytics leader - I love to solve business challenges and 
+        create collaborative partnerships. I have a history of successful Project Management, exceptional 
+        analytics ability and a passion for leveraging technology to drive results.
     </p>
     <h1>
         Skills &amp; Abilities
@@ -42,7 +42,7 @@ date: 2019-10-27
         Experience
     </h1>
     <h2>
-        manager, supply chain | stanford healthcare | 2017 - current
+        Manager, Supply Chain - Business Operations &amp; Analytics | Stanford Healthcare | 2017 - current
     </h2>
     <p>
         · Designed and Implemented RFID supply tracking across 60+ locations
@@ -58,7 +58,7 @@ date: 2019-10-27
         </li>
     </ul>
     <h2>
-        Manager, supply chain | northwestern medicine | 2013 - 2017
+        Manager, Supply Chain - Business Operations &amp; Analytics | Northwestern Medicine | 2013 - 2017
     </h2>
     <p>
         · Expanded RFID system to IR, Cath Lab and EP (6,000 SKU’s) to take
@@ -73,7 +73,7 @@ date: 2019-10-27
         </li>
     </ul>
     <h2>
-        Manager, supply chain | northwestern lake forest hospital | 2010 - 2013
+        Manager, Supply Chain - Business Operations &amp; Analytics | Northwestern Lake Forest Hospital | 2010 - 2013
     </h2>
     <p>
         · Converted ERP systems from Lawson to PeopleSoft (led data cleanse,
@@ -128,7 +128,7 @@ date: 2019-10-27
         Education
     </h1>
     <h2>
-        M.S. Computer science | 2017 | University of Illinois
+        M.S. Computer Science | 2017 | University of Illinois
     </h2>
     <p>
         · Software Engineering (Python, C#), Databases (MongoDB, )
